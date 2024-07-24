@@ -78,7 +78,7 @@ git clone https://github.com/repository_invitations/195771281/accept
 ```
 2. Navigate to the project directory:
 ```
-cd HARM_ML_web_app
+cd HARM---AI-powered-YouTube-Video-Classifier
 ```
 3. Install the required dependencies:
 ```
